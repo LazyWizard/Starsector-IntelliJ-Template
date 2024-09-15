@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="MagicLib">
+    <CLASSES>
+      <root url="jar://$STARSECTOR_INSTALL_DIR$/mods/MagicLib/jars/MagicLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$STARSECTOR_INSTALL_DIR$/mods/MagicLib/jars/MagicLib.jar!/" />
+    </SOURCES>
+  </library>
+</component>

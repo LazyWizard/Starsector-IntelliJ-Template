@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="YourMod:mod">
+    <output-path>$STARSECTOR_INSTALL_DIR$/mods/YourMod</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$PROJECT_DIR$/mod" />
+    </root>
+  </artifact>
+</component>

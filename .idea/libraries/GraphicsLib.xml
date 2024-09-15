@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="GraphicsLib">
+    <CLASSES>
+      <root url="jar://$STARSECTOR_INSTALL_DIR$/mods/GraphicsLib/jars/Graphics.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$STARSECTOR_INSTALL_DIR$/mods/GraphicsLib" />
+    </SOURCES>
+  </library>
+</component>
